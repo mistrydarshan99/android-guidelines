@@ -1,8 +1,5 @@
 # Package Guideline
 
-Foobar is a Python library for dealing with word pluralization.
-
-
 ## common
 The common package contains any classes that may be used for common features across the application.
 
